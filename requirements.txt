@@ -1,2 +1,11 @@
-python-telegram-bot==20.3
-requests
+python-telegram-bot==20.6
+aiohttp==3.9.1
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
+whois==0.9.27
+dns.resolver==2.6.1
+pyOpenSSL==23.3.0
+requests==2.31.0
+urllib3==2.1.0
+phishing-detection==0.1.0
+tldextract==5.1.1
